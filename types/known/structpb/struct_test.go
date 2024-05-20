@@ -1,5 +1,5 @@
 // Copyright 2020 The Go Authors. All rights reserved.
-// Copyright 2022 Teppei Fukuda. All rights reserved.
+// Copyright 2022 KhulnaSoft Lab. All rights reserved.
 
 package structpb_test
 

@@ -33,7 +33,7 @@ nfpms:
       - rpm
     vendor: "knqyf263"
     homepage: "https://github.com/khulnasoft-lab/go-plugin"
-    maintainer: "Teppei Fukuda <knqyf263@gmail.com>"
+    maintainer: "KhulnaSoft Lab <info@khulnasoft.com>"
     description: "Go Plugin System over WebAssembly"
     license: "MIT"
     file_name_template: "{{.ProjectName}}_{{.Version}}_{{.Os}}-{{.Arch}}"
