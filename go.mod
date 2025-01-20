@@ -1,12 +1,14 @@
 module github.com/khulnasoft-lab/go-plugin
 
-go 1.20
+go 1.21
+
+toolchain go1.23.5
 
 require (
 	github.com/planetscale/vtprotobuf v0.4.0
 	github.com/stretchr/testify v1.8.4
 	github.com/tetratelabs/wazero v1.7.3
-	google.golang.org/protobuf v1.33.0
+	google.golang.org/protobuf v1.36.3
 )
 
 require (
